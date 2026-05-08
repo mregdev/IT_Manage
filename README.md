@@ -1,6 +1,6 @@
 # Bilgi Teknolojileri Hızlı Çözüm Yazılımı
 
-**Enka Civata Sanayi Mamülleri Pazarlama A.Ş**'de IT Yöneticisi olarak görev yaptığım sırada iş yükünü hafifletmek adına yaptığım bir program. Genellikle nadirende olsa yaşanan sorunlar ve sürekli yaşanan sorunları tek bir tıkla çözen bir programdır. Amacı ise IT Yöneticilerinin ufak tefek sorunları kendisi değil de programın çözmesini sağlayarak iş yükünü hafifletmektir.
+**Enka Civata Sanayi Mamülleri Pazarlama A.Ş**'de Junior IT olarak görev yaptığım sırada iş yükünü hafifletmek adına yaptığım bir program. Genellikle nadirende olsa yaşanan sorunlar ve sürekli yaşanan sorunları tek bir tıkla çözen bir programdır. Amacı ise IT Yöneticilerinin ufak tefek sorunları kendisi değil de programın çözmesini sağlayarak iş yükünü hafifletmektir.
 
 Özellikleri:
 
